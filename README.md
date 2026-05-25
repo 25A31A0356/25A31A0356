@@ -1,10 +1,8 @@
-```markdown
 <div align="center">
 
 <!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=T.%20Sai%20Teja&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mechanical%20Engineer%20%E2%9A%99%EF%B8%8F%20%7C%20Quantum%20Thinker%20%E2%9A%9B%EF%B8%8F%20%7C%20Code%20Craftsman%20%F0%9F%96%A5%EF%B8%8F&descAlignY=60&descSize=16&animation=fadeIn" />
 
-<!-- TYPING ANIMATION -->
 [
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Engineering+the+Physical.+Computing+the+Quantum.;DSA+%7C+Qiskit+%7C+C+%7C+Python;Where+Classical+Meets+Quantum.)
@@ -13,16 +11,15 @@
 
 <br/>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7c3aed&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=25A31A0356&style=for-the-badge&color=7c3aed&labelColor=0d1117)
 
 
 &nbsp;
 
 
-![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=7c3aed&labelColor=0d1117)
+![GitHub followers](https://img.shields.io/github/followers/25A31A0356?style=for-the-badge&color=7c3aed&labelColor=0d1117)
 
 
 
@@ -43,7 +40,7 @@ class SaiTeja:
     
     current     = "Mapping qubits by day, optimizing algorithms by night."
     philosophy  = "The best engineers speak both the language of matter and the language of machines."
-` `` 
+` ``
 
 > *Bridging the gap between bolts and bits — from thermodynamic cycles to quantum circuits, I engineer at the intersection of physical systems and computational theory.*
 
@@ -88,7 +85,7 @@ class SaiTeja:
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
-](https://leetcode.com/)
+](https://leetcode.com/u/25A31A0356/)
 &nbsp;&nbsp;
 [
 
@@ -100,7 +97,7 @@ class SaiTeja:
 
 ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
 
-](https://www.hackerrank.com/)
+](https://www.hackerrank.com/profile/25A31A0356)
 
 **Focus Areas:** Data Structures · Algorithms · Problem Solving · Optimization
 
@@ -109,122 +106,3 @@ class SaiTeja:
 ---
 
 ## 🎯 Current Focus
-
-```
-
-╔══════════════════════════════════════════════════════════════════╗
-║              ACTIVE LEARNING TRAJECTORY — 2025                   ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ⚛️  Quantum Algorithms    ████████████░░░░  75% ─ Deep diving   ║
-║  🧠  DSA / LeetCode        █████████░░░░░░░  60% ─ Daily grind   ║
-║  🔬  Qiskit Simulations    ██████░░░░░░░░░░  40% ─ Building      ║
-║  ⚙️  System-Level C        ████████░░░░░░░░  55% ─ Sharpening    ║
-╚══════════════════════════════════════════════════════════════════╝
-` ``
-
-### 🔭 On My Radar
-
-- 🛸 **Quantum × Space** — Exploring how quantum sensing & communication can redefine satellite navigation and deep-space telemetry
-- 🛡️ **Quantum Cryptography** — Post-quantum security protocols for defense-grade infrastructure
-- ⚙️ **High-Performance Computing** — SIMD, cache-aware algorithms, and hardware-software co-design
-- 🧮 **Quantum Error Correction** — Because qubits are notoriously noisy
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0"/>
-
-</div>
-
-<div align="center">
-
-[
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa)
-
-](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🧩 Problem Solving Profiles
-
-<div align="center">
-
-| Platform | Focus | Status |
-|:--------:|:-----:|:------:|
-| [
-
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
-](https://leetcode.com/) | Arrays, Trees, DP, Graphs | 🟢 Active |
-| [
-
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-
-](https://www.geeksforgeeks.org/) | CS Fundamentals, Algorithms | 🟢 Active |
-| [
-
-![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
-
-](https://www.hackerrank.com/) | C — 🥇 5-Star Gold Badge | ✅ Certified |
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/YOUR_LINKEDIN)
-&nbsp;
-[
-
-![Twitter/X](https://img.shields.io/badge/X_(Twitter)
-
--000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-&nbsp;
-[
-
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:YOUR_EMAIL@gmail.com)
-&nbsp;
-[
-
-![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)
-
-](https://your-portfolio.dev)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 A Thought to Leave You With
-
-*"Classical computers ask: what is the answer?*
-*Quantum computers ask: what are all the answers, simultaneously?"*
-
-<br/>
-
-**— Engineering the frontier, one qubit at a time. ⚛️**
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
-
-</div>
-```
