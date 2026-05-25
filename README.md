@@ -1,5 +1,3 @@
-Here is the full README content:
-
 ```markdown
 <div align="center">
 
@@ -230,7 +228,3 @@ class SaiTeja:
 
 </div>
 ```
-
-**Before committing, replace these placeholders:**
-- `YOUR_GITHUB_USERNAME` — appears 5 times (stats cards + profile views)
-- `YOUR_LINKEDIN`, `YOUR_TWITTER`, `YOUR_EMAIL@gmail.com`
