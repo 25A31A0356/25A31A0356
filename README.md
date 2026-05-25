@@ -1,6 +1,6 @@
 <div align="center">
     
-<img src="1779697055506.png" width="150" height="150" style="border-radius:50%;" />
+<img src="1779697055506.png" width="120" height="120" style="border-radius:50%; float:left;" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=T.%20Sai%20Teja&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mechanical%20Engineer%20%E2%9A%99%EF%B8%8F%20%7C%20Quantum%20Thinker%20%E2%9A%9B%EF%B8%8F%20%7C%20Code%20Craftsman%20%F0%9F%96%A5%EF%B8%8F&descAlignY=60&descSize=16&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Engineering+the+Physical.+Computing+the+Quantum.;DSA+%7C+Qiskit+%7C+C+%7C+Python;Where+Classical+Meets+Quantum.)](https://git.io/typing-svg)
